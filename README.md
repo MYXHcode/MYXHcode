@@ -25,7 +25,7 @@ I am interested in Unity and hope to become an independent game developer in the
 
 When all the stars in the night sky go out, all dreams and streams will flow into the same ocean, and we will eventually meet.
 
-我是一名主修计算机科学与技术的大三学生，同时也是一个编程爱好者。
+我是一名主修计算机科学与技术的大四学生，同时也是一个编程爱好者。
 
 目前，我正在学习 Java Spring，并且经常分享我的学习经验。
 
