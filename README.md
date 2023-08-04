@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Introduce 介绍
 
-I am a third-year student majoring in computer science and technology, and I am also a programming enthusiast.
+I am a senior majoring in computer science and technology, and I am also a programming enthusiast.
 
 Currently, I am learning Java Spring and will often share my learning experience.
 
